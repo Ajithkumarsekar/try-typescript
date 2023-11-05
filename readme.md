@@ -41,5 +41,6 @@ npm run dev
 
 ## References
 
-1. [TypeScript Crash Course](https://www.youtube.com/watch?v=BCg4U1FzODs)
-2. [TypeScript with React](https://www.youtube.com/watch?v=kq6IhAZVNh8)
+1. [TypeScript Crash Course by Traversy media](https://www.youtube.com/watch?v=BCg4U1FzODs)
+2. [TypeScript with React by developedbyed](https://www.youtube.com/watch?v=kq6IhAZVNh8)
+3. [Typescript Generics Tutorial by Ben Awad](https://www.youtube.com/watch?v=nViEqpgwxHE)
